@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+openai
+python-dotenv
+assemblyai
+httpx
+asyncpg
